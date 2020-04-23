@@ -1,0 +1,77 @@
+body {
+  background-color: rgb(1, 31, 68);
+
+}
+.form{
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 45vh;
+  min-width: 30vw;
+  margin-bottom:50px;
+  margin-top: 70px;
+  background-color: whitesmoke;
+  align-items: center;
+  border-radius: 35px;
+
+  
+}
+
+img{
+position: relative;
+
+}
+main{
+  display: flex;
+  justify-content: center;
+}
+h2{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 900;
+align-content: inherit;
+color: rgb(15, 15, 158);
+}
+
+h4{
+font-weight: normal;
+color:grey;
+text-align: center;
+
+
+}
+button{
+  background-color: blue;
+  color:whitesmoke;
+  border-style:groove;
+  padding: 15px;
+  border-radius: 8px;
+  width:27vw;
+  
+}
+button:hover{background-color: rgb(2, 2, 77);
+
+}
+.input-box{
+  background-color:rgb(222, 230, 240);
+  color:black;
+  border-style:groove;
+  padding: 15px;
+  border-radius: 8px;
+  width:25vw;
+}
+h3{
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-family: monospace;
+}
+
+.select-box {
+  background-color:rgb(222, 230, 240);
+  color:black;
+  border-style:groove;
+  padding: 15px;
+  border-radius: 8px;
+  width:27vw;
+ 
+}
